@@ -139,4 +139,3 @@ See the main README for usage examples.
 
 ---
 
-**Last Updated**: February 2026
